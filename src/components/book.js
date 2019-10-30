@@ -1,12 +1,6 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-// import '../src/components/book'
-
-
-
-var initialBooks = [
-  {   name: "Harry Potter and the Philosophers Stone",
+const initialBooks = [
+  {
+      name: "Harry Potter and the Philosophers Stone",
       author: "J. K. Rowling",
       genre: "fantasy"
   },{
